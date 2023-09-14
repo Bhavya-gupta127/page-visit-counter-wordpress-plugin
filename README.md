@@ -17,7 +17,7 @@ The Page Visit Counter is a WordPress plugin designed to track and display the n
 
 ## Installation
 
-1. Download the plugin ZIP file from the [GitHub repository](https://github.com/your-plugin-repo-url).
+1. Download the plugin ZIP file from the [GitHub repository](https://github.com/Bhavya-gupta127/page-visit-counter-wordpress-plugin).
 
 2. Log in to your WordPress dashboard.
 
@@ -65,12 +65,8 @@ Yes, administrators can reset the visit count for a specific page or post by edi
 
 ## Support
 
-For support or questions related to this plugin, please contact the author, Bhavya Gupta, at [your-email@example.com](mailto:your-email@example.com).
+For support or questions related to this plugin, please contact the author, Bhavya Gupta, at [bhavyagupta127@example.com](mailto:bhavyagupta127@example.com).
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/your-plugin-repo-url).
-
-## License
-
-This plugin is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/Bhavya-gupta127/page-visit-counter-wordpress-plugin).
